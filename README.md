@@ -7,6 +7,7 @@
 - [01.30 - JS 继承的方式](https://github.com/ravencrown/Daily-Question/issues/3)
 - [01.31 - JS 严格模式](https://github.com/ravencrown/Daily-Question/issues/4)
 - [02.01 - 九种跨域方式实现原理](https://github.com/ravencrown/Daily-Question/issues/5)
+- [02.13 - 算法的时间复杂度](https://github.com/ravencrown/Daily-Question/issues/6)
 
 
 
