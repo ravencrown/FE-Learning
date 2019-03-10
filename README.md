@@ -1,14 +1,20 @@
-# Daily-Question
+# FE-Learning
 
-每日一道题，每天进步一点点，一年后看到不一样的自己
 
-- [01.27 - JS 变量提升](https://github.com/ravencrown/Daily-Question/issues/1)
-- [01.29 - JS 深拷贝和浅拷贝](https://github.com/ravencrown/Daily-Question/issues/2)
-- [01.30 - JS 继承的方式](https://github.com/ravencrown/Daily-Question/issues/3)
-- [01.31 - JS 严格模式](https://github.com/ravencrown/Daily-Question/issues/4)
-- [02.01 - 九种跨域方式实现原理](https://github.com/ravencrown/Daily-Question/issues/5)
-- [02.13 - 算法的时间复杂度](https://github.com/ravencrown/Daily-Question/issues/6)
 
+FE补全计划
+
+- [补全体系](https://github.com/ravencrown/FE-Learning/issues/7)
+
+- [JS 变量提升](https://github.com/ravencrown/Daily-Question/issues/1)
+- [S 深拷贝和浅拷贝](https://github.com/ravencrown/Daily-Question/issues/2)
+- [JS 继承的方式](https://github.com/ravencrown/Daily-Question/issues/3)
+- [JS 严格模式](https://github.com/ravencrown/Daily-Question/issues/4)
+- [九种跨域方式实现原理](https://github.com/ravencrown/Daily-Question/issues/5)
+- [算法的时间复杂度](https://github.com/ravencrown/Daily-Question/issues/6)
+
+
+## ES6
 
 
 
