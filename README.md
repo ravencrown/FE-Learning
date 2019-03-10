@@ -43,3 +43,10 @@ FE补全计划
 - [33-js-concepts](https://github.com/stephentian/33-js-concepts)
 - [What the f*ck JavaScript?](https://github.com/denysdovhan/wtfjs)
 - [木易杨，网易高级前端工程师](https://github.com/yygmind/blog)
+
+## 算法
+
+- [leetcode-javascript](https://github.com/chihungyu1116/leetcode-javascript)
+- [javascript-algorithms](https://github.com/trekhleb/javascript-algorithms/blob/master/README.zh-CN.md)
+- [JS-Sorting-Algorithm](https://github.com/hustcc/JS-Sorting-Algorithm)
+- [awesome-algorithm](https://github.com/apachecn/awesome-algorithm)
