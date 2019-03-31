@@ -12,6 +12,7 @@ FE补全计划
 - [JS 严格模式](https://github.com/ravencrown/Daily-Question/issues/4)
 - [九种跨域方式实现原理](https://github.com/ravencrown/Daily-Question/issues/5)
 - [算法的时间复杂度](https://github.com/ravencrown/Daily-Question/issues/6)
+- [JS 运算符优先级](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Operator_Precedence)
 
 
 ## ES6
